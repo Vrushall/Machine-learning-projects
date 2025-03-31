@@ -42,7 +42,7 @@ Required Python libraries: *os pandas numpy seaborn matplotlib itertools sklearn
 
 ### Findings
 
-**Regression Task**
+#### Regression Task
 
 **Data Insights**:
 
@@ -66,7 +66,7 @@ Required Python libraries: *os pandas numpy seaborn matplotlib itertools sklearn
 Both models indicate that PctBachDeg25_Over, incidenceRate, and medIncome are among the most influential features affecting the target variable.
 
 
-**Classification Task**
+#### Classification Task
 
 **Data Insights**:
 
@@ -87,7 +87,7 @@ Both models indicate that PctBachDeg25_Over, incidenceRate, and medIncome are am
 - The Random Forest Classifier outperforms Logistic Regression models in accuracy, precision, and recall.
 - Feature importance ranking provides insights into which attributes contribute most to heart disease classification.
 
-**Conclusion**
+### Conclusion
 
 This project explores both regression and classification tasks using multiple machine-learning models. The findings highlight the significance of feature selection, regularization, and model performance evaluation. The Random Forest models consistently outperform their counterparts in both regression and classification tasks, demonstrating their robustness in handling complex datasets.
 
