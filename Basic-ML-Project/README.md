@@ -5,21 +5,32 @@ This project explores and compares different machine learning models, specifical
 Models Used
 
 Regression models
+
 -Ordinary least Square(OLS) 
+
 -Lasso
+
 -Ridge
+
 -Random Forest Regressor
+
 Classification models
+
 -Logistic Regression (L1 & L2 Regularization)
+
 -Random Forest Classifier
 
 Key Features
 
 -Hyperparameter tuning using GridSearchCV
--Model evaluation using Accuracy, Precision, and Recall
+
+-Model evaluation using Root Mean Squared Error, Accuracy, Precision, and Recall
+
 -Comparison of L1 vs. L2 regularization in Logistic Regression
+
 -Feature importance analysis
--Performance visualization using confusion matrices
+
+-Performance visualization using scatterplot and confusion matrices
 
 Data 
 
