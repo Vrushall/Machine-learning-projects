@@ -38,7 +38,7 @@ The dataset used in this project is included in this repository.
 
 ### Libraries
 
-Required libraries: *os pandas numpy seaborn matplotlib itertools sklearn*
+Required Python libraries: *os pandas numpy seaborn matplotlib itertools sklearn*
 
 This project is open-source and available for learning purposes.
 
