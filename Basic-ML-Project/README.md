@@ -1,8 +1,8 @@
-Overview
+### Overview
 
 This project explores and compares different machine learning models, specifically Logistic Regression and Random Forest, using hyperparameter tuning via GridSearchCV. The models are evaluated based on accuracy, precision, and recall to determine their effectiveness.
 
-Models Used
+### Models Used
 
 Regression models
 
@@ -20,7 +20,7 @@ Classification models
 
 -Random Forest Classifier
 
-Key Features
+### Key Features
 
 -Hyperparameter tuning using GridSearchCV
 
@@ -32,11 +32,11 @@ Key Features
 
 -Performance visualization using scatterplot and confusion matrices
 
-Data 
+### Data 
 
 The dataset used in this project is included in this repository.
 
-Libraries
+### Libraries
 
 Required libraries: os pandas numpy seaborn matplotlib itertools sklearn
 
