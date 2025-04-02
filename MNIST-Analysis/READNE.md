@@ -33,3 +33,5 @@ The dataset can be found online and can be downloaded in various ways, it consis
 
 
 
+This project is open-source and available for learning purposes.
+
