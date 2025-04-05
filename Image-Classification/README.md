@@ -63,6 +63,8 @@ The best performance was at epoch 5, where: Training Loss: 0.59 | Validation Los
 - Perform more hyperparameter tuning (embedding size, hidden size, learning rate)
 
 Also created a function at the end for reusability, for similar image-captioning models, which trains the model and validates it and plots graphs to visualize the loss and accuracy.
+This project is open-source and available for learning purposes.
+
 
 
 
